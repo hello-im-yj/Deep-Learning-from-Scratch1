@@ -1,2 +1,2 @@
 # Deep-Learning-from-Scratch1
-Code for the book 『Deep Learning From Scratch』
+밑바닥부터 시작하는 딥러닝 ❶
